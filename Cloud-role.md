@@ -2,7 +2,7 @@
 
 **The Role**
 
-- The role is cloud infrastructure engineer, some of the technical requirements for it would be understanding of network concepts, knowledge of systems admin with systems like Windows, Linux and Unix, and experience of virtualization with technologies such as WMware, Hyper-V or KVM and knowledge of security and best practices.
+- The role is cloud infrastructure engineer, some of the technical requirements for it would be understanding of network concepts, knowledge of systems admin with systems like Windows, Linux and Unix, and experience of virtualization with technologies such as WMware, Hyper-V or KVM and knowledge of security and best practices. The role also asks for experience working in data centres. which could also mean knowledge of databases like mySQL.
 
 - some of the non technical skills that are required for the role would be, problem solving skills, communication skills, ability to both collaborate with people and work alone on your own initiative, potentially a driving license depending on the job, and the abililty to speak and write in english
 

@@ -8,7 +8,7 @@
 
 **My thoughts on the role**
 
-- I think the role of cloud engineer does require a lot of knowledge about a broad spectrum of things ranging from, obiusly cloud engineering, but security, multiple operating systems, and vast knowledge of networking and how it works, I feel like if you were to take all the knowledge needed to be a cloud engineer, combine that with the knowledge of a full stack developer it would be like a one man it business
+- I think the role of cloud engineer does require a lot of knowledge about a broad spectrum of things ranging from, obviously cloud engineering, but security, multiple operating systems, and vast knowledge of networking and how it works, I feel like if you were to take all the knowledge needed to be a cloud engineer, combine that with the knowledge of a full stack developer it would be like a one man it business
 
 **What skills do I need to learn to achieve the role?**
 

@@ -11,3 +11,5 @@ Spent a couple of hours on the truck sat nav inputting each and every postcode, 
 
 **Results**
 A week spent out in the truck, all deliveries made and returned home on friday afternoon,
+
+![Truck](truck.jpg)
